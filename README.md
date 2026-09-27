@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:333333&height=200&section=header&text=Alex&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:333333&height=200&section=header&text=Kai&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-### Developer • 🇮🇲 Isle of Man
-
-*Building stuff, breaking it, and figuring out how it works.*
+### Developer • Isle of Man
 
 </div>
 
@@ -12,9 +10,15 @@
 
 ### About
 
-Hey, I'm Alex. I'm a developer based in the Isle of Man. I spend most of my time writing code, experimenting with different tech stacks, and working on random side projects. 
+Hey im Kai
 
-Right now, I'm diving deeper into low-level programming with **C++**, pushing my **web dev** skills further, and messing around with **game development** in Unity.
+Im a developer from the Isle of Man and i work at Oceanic Investment Management
+
+I mainly use **C#** and most of my experience comes from making random stuff, messing around in PowerShell and making small projects when i get an idea
+
+Been using C# for around 2 years now and currently learning **C++**. Also do a bit of web stuff with JavaScript HTML and CSS
+
+Most of the stuff i make is just me thinking "can i make this" and then spending way too long on it
 
 ---
 
@@ -22,32 +26,59 @@ Right now, I'm diving deeper into low-level programming with **C++**, pushing my
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,git,github,vscode,unity,linux" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,powershell,git,github,vscode,unity,linux" />
 
 </div>
 
-C#           [★★★★☆]  2+ years
-JavaScript   [★★★☆☆]  1+ year
-HTML/CSS     [★★☆☆☆]  Recent
-C++          [★☆☆☆☆]  Currently learning
-
+* C# — 2+ years
+* PowerShell
+* JavaScript
+* HTML/CSS
+* C++ — learning
+* Unity
+* Git
+* GitHub
+* VS Code
+* Linux
 
 ---
 
-### Beyond Code
+### What im doing
 
-* Game design & mechanics
-* Brainteasers & weird technical bugs
-* Fueling builds with caffeine and pizza
+Mainly learning C++ and making random projects
+
+I mess around with PowerShell quite a bit too, usually making scripts for things that probably didnt need a script
+
+Also been doing a bit more web development recently
+
+---
+
+### Projects
+
+Most of my projects start from me having some random idea and wanting to see if i can make it
+
+Some are useful, some arent
+
+---
+
+### Stuff i like
+
+* C#
+* C++
+* PowerShell
+* Game development
+* Web development
+* Making random stuff
+* Breaking things and trying to fix them
 
 ---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/alexdevelopment2)
 
-<br/>
+<br><br>
 
-> *"It works on my machine."*
+*"It works on my machine."*
 
 </div>
