@@ -75,7 +75,7 @@ Some are useful, some arent
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/alexdevelopment2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/kaidevelopment)
 
 <br><br>
 
